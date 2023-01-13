@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Amitkumar S. Linge
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c,c++ and java.
+- 🌱 I have goood Knowledge in c,c++ and java.
+- 🌱 Currently learning html,css,php,javascript.
 - 📫 amitkumarlinge@gmail.com
 
 <!---
